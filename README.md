@@ -1,7 +1,7 @@
-# game-server-query
+# Game Server Query
 ---
 
-Game server query tools for Node.JS. Used to receive information about a game such as players, map and server name.
+Game server querying tools for Node.JS. Used to receive information about a game such as players, map and server name.
 
 Example usage
 ---
