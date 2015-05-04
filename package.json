@@ -1,17 +1,21 @@
 {
 	"name": "game-server-query",
 	"description": "Game server query tools for Node.JS",
-	"tags": [
+	"keywords": [
 		"srcds",
 		"query",
 		"game",
 		"gameserver",
 		"nodejs",
-		"server"
+		"server",
+		"node",
+		"serverquery",
+		"game server query",
+		"server query"
 	],
 	"main": "lib/index.js",
 	"author": "Kurt Stolle",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/kurt-stolle/game-server-query.git"
