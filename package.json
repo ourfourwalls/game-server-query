@@ -15,7 +15,7 @@
 	],
 	"main": "lib/index.js",
 	"author": "Kurt Stolle",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/kurt-stolle/game-server-query.git"
@@ -37,13 +37,5 @@
 		"minimist": "~1.1.0",
 		"varint": "~4.0.0",
 		"moment": "~2.9.0"
-	},
-	"files": [
-		"bin/game-server-query.js",
-		"lib/",
-		"protocols/",
-		"games.txt",
-		"LICENSE",
-		"README.md"
-	]
+	}
 }
